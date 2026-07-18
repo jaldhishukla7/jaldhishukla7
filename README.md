@@ -61,25 +61,28 @@ Tools & Methodologies
 <img src="https://img.shields.io/badge/Cursor%20IDE-000000?style=for-the-badge&logo=cursor&logoColor=white" />
 
 <br/>
-📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jaldhishukla7&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaldhishukla7&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" height="180" />
-</div>
-<br/>
 🚀 Featured Projects
 
 <details open>
 <summary><b>Backend & Full-Stack</b></summary>
-<br/>
-ProjectDescriptionDhan-Saathi-LiveAgentic AI-powered financial companion built with FastAPI — handles real-time financial data and delivers intelligent insightsVariscaEnd-to-end e-commerce platform — React/TypeScript frontend (Vercel), Node.js/Express backend (Railway), PostgreSQL (Supabase), with JWT auth, product catalogue & order managementaxiom-lubricants-webFull-stack web application built with TypeScript and clean architecture principlesE-Hospital Management SystemManages patients, doctors, billing, and reports using C#, .NET MVC, and SQL ServerBlood Management SystemCentralized platform for tracking donors and blood availability — C#, .NET MVC, SQL ServerReal-Time Chat ApplicationPrivate/group messaging app with SignalR and Identity authentication (ASP.NET Core MVC, SQL Server)netmvc-core-learnLearning repo exploring enterprise-level .NET MVC Core patterns and best practices
+
+Dhan-Saathi-Live – Agentic AI-powered financial companion built with FastAPI, handling real-time financial data and delivering intelligent insights
+Varisca – End-to-end e-commerce platform with React/TypeScript frontend (Vercel), Node.js/Express backend (Railway), and PostgreSQL (Supabase). Features JWT auth, product catalogue, and order management
+axiom-lubricants-web – Full-stack web application built with TypeScript and clean architecture principles
+E-Hospital Management System – Manages patients, doctors, billing, and reports using C#, .NET MVC, and SQL Server
+Blood Management System – Centralized platform for tracking donors and blood availability using C#, .NET MVC, and SQL Server
+Real-Time Chat Application – Private/group messaging app with SignalR and Identity authentication (ASP.NET Core MVC, SQL Server)
+netmvc-core-learn – Learning repo exploring enterprise-level .NET MVC Core patterns and best practices
+
 
 </details>
 <details>
 <summary><b>Data Science & AI</b></summary>
-<br/>
-ProjectDescriptionpython-ds-genaiA structured 12-week roadmap for mastering Data Science and Generative AI — Python basics through advanced LLM applicationsAI-Based Healthcare ChatbotHealthcare query chatbot with appointment assistance using NLP (Python, Flask, Scikit-learn)Data Analysis ProjectsEDA & visualization on real-world datasets (Titanic, Netflix, IPL) using Python, Pandas, NumPy, Matplotlib, Seaborn, Streamlit
+
+python-ds-genai – A structured 12-week roadmap for mastering Data Science and Generative AI, from Python basics through advanced LLM applications
+AI-Based Healthcare Chatbot – Healthcare query chatbot with appointment assistance using NLP (Python, Flask, Scikit-learn)
+Data Analysis Projects – EDA & visualization on real-world datasets (Titanic, Netflix, IPL) using Python, Pandas, NumPy, Matplotlib, Seaborn, Streamlit
+
 
 </details>
 <br/>
