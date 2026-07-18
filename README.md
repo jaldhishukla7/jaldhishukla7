@@ -1,7 +1,5 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Jaldhi+Shukla+%F0%9F%91%8B;Backend+Developer+%7C+Data+Enthusiast;Building+Scalable+APIs+%26+Intelligent+Systems&center=true&width=600&height=50&color=58A6FF&vCenter=true&size=22" alt="Typing SVG" />
-<img src="https://img.shields.io/badge/📍-Ahmedabad,%20India-informational?style=flat-square" />
-<img src="https://img.shields.io/github/followers/jaldhishukla7?label=Followers&style=flat-square" />
 </div>
 <br/>
 👋 About Me
