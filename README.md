@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Jaldhi+Shukla+%F0%9F%91%8B;Backend+Developer+%7C+Data+Enthusiast;Building+Scalable+APIs+%26+Intelligent+Systems&center=true&width=600&height=50&color=58A6FF&vCenter=true&size=22" alt="Typing SVG" />
 </div>
 <br/>
-👋 About Me
+About Me
 
 I'm a Backend Developer who thrives at the intersection of software engineering and data science. I architect scalable, high-performance backend systems while leveraging data to build intelligent, insight-driven applications.
 
@@ -14,6 +14,7 @@ I'm equally passionate about Data Science & AI — I love cleaning messy dataset
 🔭 Currently exploring: Generative AI, MLOps, and Event-Driven Architectures
 🌱 Learning: Advanced Machine Learning, Microservices, and Cloud Deployments (Azure, AWS)
 💬 Ask me about: Backend Development (C#, .NET, FastAPI, TypeScript), Data Science (Python, Pandas, Scikit-learn), or System Design
+<br/>
 ⚡ Fun fact: I write clean backend code, analyze messy data, and find joy in both!
 
 
