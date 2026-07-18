@@ -61,29 +61,6 @@ Tools & Methodologies
 <img src="https://img.shields.io/badge/Cursor%20IDE-000000?style=for-the-badge&logo=cursor&logoColor=white" />
 
 <br/>
-🚀 Featured Projects
-
-Backend & Full-Stack
-
-
-Dhan-Saathi-Live – Agentic AI-powered financial companion built with FastAPI, handling real-time financial data and delivering intelligent insights
-Varisca – End-to-end e-commerce platform with React/TypeScript frontend (Vercel), Node.js/Express backend (Railway), and PostgreSQL (Supabase). Features JWT auth, product catalogue, and order management
-axiom-lubricants-web – Full-stack web application built with TypeScript and clean architecture principles
-E-Hospital Management System – Manages patients, doctors, billing, and reports using C#, .NET MVC, and SQL Server
-Blood Management System – Centralized platform for tracking donors and blood availability using C#, .NET MVC, and SQL Server
-Real-Time Chat Application – Private/group messaging app with SignalR and Identity authentication (ASP.NET Core MVC, SQL Server)
-netmvc-core-learn – Learning repo exploring enterprise-level .NET MVC Core patterns and best practices
-
-
-Data Science & AI
-
-
-python-ds-genai – A structured 12-week roadmap for mastering Data Science and Generative AI, from Python basics through advanced LLM applications
-AI-Based Healthcare Chatbot – Healthcare query chatbot with appointment assistance using NLP (Python, Flask, Scikit-learn)
-Data Analysis Projects – EDA & visualization on real-world datasets (Titanic, Netflix, IPL) using Python, Pandas, NumPy, Matplotlib, Seaborn, Streamlit
-
-
-<br/>
 📜 Certifications & Learning
 
 
