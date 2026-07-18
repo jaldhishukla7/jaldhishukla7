@@ -63,8 +63,8 @@ Tools & Methodologies
 <br/>
 🚀 Featured Projects
 
-<details open>
-<summary><b>Backend & Full-Stack</b></summary>
+Backend & Full-Stack
+
 
 Dhan-Saathi-Live – Agentic AI-powered financial companion built with FastAPI, handling real-time financial data and delivering intelligent insights
 Varisca – End-to-end e-commerce platform with React/TypeScript frontend (Vercel), Node.js/Express backend (Railway), and PostgreSQL (Supabase). Features JWT auth, product catalogue, and order management
@@ -75,16 +75,14 @@ Real-Time Chat Application – Private/group messaging app with SignalR and Iden
 netmvc-core-learn – Learning repo exploring enterprise-level .NET MVC Core patterns and best practices
 
 
-</details>
-<details>
-<summary><b>Data Science & AI</b></summary>
+Data Science & AI
+
 
 python-ds-genai – A structured 12-week roadmap for mastering Data Science and Generative AI, from Python basics through advanced LLM applications
 AI-Based Healthcare Chatbot – Healthcare query chatbot with appointment assistance using NLP (Python, Flask, Scikit-learn)
 Data Analysis Projects – EDA & visualization on real-world datasets (Titanic, Netflix, IPL) using Python, Pandas, NumPy, Matplotlib, Seaborn, Streamlit
 
 
-</details>
 <br/>
 📜 Certifications & Learning
 
@@ -109,9 +107,3 @@ Actively involved in tech events, seminars, and workshops to stay updated with e
 <a href="https://linkedin.com/in/jaldhishukla7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/jaldhishukla7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="mailto:jaldhishukla7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<br/><br/>
-
-<sub>Built by Jaldhi Shukla</sub>
-
-</div>
